@@ -544,7 +544,7 @@ Android开发核心知识点笔记-目录：
 
 ## Q Q群
 
-Android开发交流QQ群：**930068172 （备注一下Gitee）**
+Android开发交流QQ群：**930068172 （备注一下GitHub）**
 
 快捷加群方式：[点击此处加入群聊Android开发交流群](https://jq.qq.com/?_wv=1027&k=ZzEmip7o)
 
