@@ -10,6 +10,15 @@ TM……我是真的好辛苦啊……**你确定不来个star？**
 > >
 > > > 如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[QQ群](https://jq.qq.com/?_wv=1027&k=ZzEmip7o)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
+## 粉丝 Q Q群
+
+Android开发交流QQ群：**930068172 （备注一下GitHub）**
+
+快捷加群方式：[点击此处加入群聊Android开发交流群](https://jq.qq.com/?_wv=1027&k=ZzEmip7o)
+
+![Android技术交流群](https://images.gitee.com/uploads/images/2020/0903/222921_a93c9881_8016301.png "屏幕截图.png")
+
+
 # Android-Notes
 
 Android开发核心知识点笔记-目录：
