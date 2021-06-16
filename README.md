@@ -18,7 +18,7 @@ Android开发交流QQ群：**930068172 （备注一下GitHub）**
 
 ![Android技术交流群](https://images.gitee.com/uploads/images/2020/0903/222921_a93c9881_8016301.png "屏幕截图.png")
 
-- **微信:Lxy_Maniu**
+## **获取方式二：添加微信:Lxy_Maniu**
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/68420976/121190665-da21c900-c89d-11eb-9b2c-58d878c5739d.png">
@@ -556,11 +556,6 @@ Android开发核心知识点笔记-目录：
 
 **祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！**
 
-##- **微信:Lxy_Maniu**
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121190665-da21c900-c89d-11eb-9b2c-58d878c5739d.png">
-</div>
 
 ## Q Q群
 
@@ -569,6 +564,12 @@ Android开发交流QQ群：**930068172 （备注一下GitHub）**
 快捷加群方式：[点击此处加入群聊Android开发交流群](https://jq.qq.com/?_wv=1027&k=ZzEmip7o)
 
 ![Android技术交流群](https://images.gitee.com/uploads/images/2020/0903/222921_a93c9881_8016301.png "屏幕截图.png")
+
+## **获取方式二：添加微信:Lxy_Maniu**
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/68420976/121190665-da21c900-c89d-11eb-9b2c-58d878c5739d.png">
+</div>
 
 > PS：
 > 平常很忙，找思思小姐姐领取就好了，别找我
