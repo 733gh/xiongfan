@@ -425,10 +425,13 @@ Android开发核心知识点笔记-目录：
 <div align=center>
 <img src="https://user-images.githubusercontent.com/68420976/139797876-58d56941-594f-4c5e-a498-4e9ef7f4f36d.png">
 </div>
+
 **微信：MNxiaona666**
+
 <div align=center>
  <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png">
 </div>
+
 > PS：
 >
 > > 平常很忙，找小娜小姐姐或者仲夏小姐姐领取就好了，别找我
@@ -438,6 +441,7 @@ Android开发核心知识点笔记-目录：
 ## 微信公众号
 
 ##### 程序猿百晓生
+
 <div align=center>
-![](https://upload-images.jianshu.io/upload_images/16810022-252300569d46e55c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/16810022-252300569d46e55c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
 </div>
