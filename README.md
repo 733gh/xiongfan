@@ -10,7 +10,7 @@ Emm……辛辛苦苦种树……确定不来个Star鼓励一下？
 
 > 部分内容收集整理于网络，在此也再次感谢所有内容产出者的贡献！
 >
-> > 如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[**QQ群**](https://jq.qq.com/?_wv=1027&k=0LtuaUyZ)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
+> > 如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[**QQ群**](https://jq.qq.com/?_wv=1027&k=gVTJsvpk)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
 # Android-Notes
 
@@ -420,14 +420,15 @@ Android开发核心知识点笔记-目录：
 
 ## QQ群
 
-**Android架构交流群**：[**710443626**](https://jq.qq.com/?_wv=1027&k=iW7GWhW2) （备注一下GitHub，免得被认成打无良广告的）
+**Android架构交流群**：[**612831951**](https://jq.qq.com/?_wv=1027&k=gVTJsvpk) （备注一下GitHub，免得被认成打无良广告的）
 
-<img src="https://user-images.githubusercontent.com/68420976/120619279-668f4e80-c48e-11eb-94e7-06354e4a8333.png">
-
+<div align=center>
+<img src="https://user-images.githubusercontent.com/68420976/139797876-58d56941-594f-4c5e-a498-4e9ef7f4f36d.png">
+</div>
 **微信：MNxiaona666**
- 
+<div align=center>
  <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png">
-
+</div>
 > PS：
 >
 > > 平常很忙，找小娜小姐姐或者仲夏小姐姐领取就好了，别找我
@@ -437,5 +438,6 @@ Android开发核心知识点笔记-目录：
 ## 微信公众号
 
 ##### 程序猿百晓生
-
+<div align=center>
 ![](https://upload-images.jianshu.io/upload_images/16810022-252300569d46e55c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+</div>
