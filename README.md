@@ -16,7 +16,7 @@
 
 ![](https://img-blog.csdnimg.cn/direct/7eb5036add9f4f728f1e6135755ce0e7.png#pic_center)
 
-### 第二阶段：鸿蒙南北双向高工技能基础：[`gitee.com/MNxiaona/733GH`](https://gitee.com/MNxiaona/733GH)
+### 第二阶段：鸿蒙南北双向高工技能基础：
 
 ![](https://img-blog.csdnimg.cn/direct/372f9160d1974ee69179ad08986586ff.png#pic_center)
 
@@ -30,7 +30,7 @@
 
 </div>
 
-### 第三阶段：应用开发中高级就业技术
+### 第三阶段：应用开发中高级就业技术：
 
 ![](https://img-blog.csdnimg.cn/direct/852f46d88cda4857969ec66e25c097b7.png#pic_center)
 
