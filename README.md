@@ -1,21 +1,49 @@
-## 鸿蒙星河版(HarmonyOS Next)学习路线+学习文档+面试题
+## 鸿蒙全栈开发全新学习指南
+也为了积极培养鸿蒙生态人才，让大家都能学习到鸿蒙开发最新的技术，**针对一些在职人员、0基础小白、应届生/计算机专业、鸿蒙爱好者等人群，整理了一套纯血版鸿蒙（HarmonyOS Next）全栈开发技术的学习路线【包含了大厂APP实战项目开发】**。
 
-**首先开发语言 ArkTS，这个尤为重要，然后就是ArkUI声明式UI开发、Stage模型、网络/数据库管理、分布式应用开发、进程间通信、线程间通信技术、多媒体技术……等北向开发相关的必备技术，再然后就是南向开发方向的系统底层技术。
-由于中间有许多的知识点，这边都以梳理成思维导图的形式了，总共两大部分成了八大专类。**
+<div align=center>
 
-**北向开发内容**：OpenHarmony基础技能、OpenHarmony就业必修技能、OpenHarmony多媒体技术、OpenHarmony高级技能、六大商业级项目驱动教学；
+**微信扫码获取学习资源，开启你的学习之旅！**
 
-**南向设备开发内容**：鸿蒙Napi组件进阶、初识OpenHarmony内核、实战工业级设备开发
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
 
-![](https://github.com/733gh/xiongfan/assets/68420976/9439cd8d-63c3-41d2-9056-bf076849fc1b)
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
 
+</div>
+
+## 本路线共分为四个阶段：
+### 第一阶段：鸿蒙初中级开发必备技能
+
+![](https://img-blog.csdnimg.cn/direct/7eb5036add9f4f728f1e6135755ce0e7.png#pic_center)
+
+### 第二阶段：鸿蒙南北双向高工技能基础：[`gitee.com/MNxiaona/733GH`](https://gitee.com/MNxiaona/733GH)
+
+![](https://img-blog.csdnimg.cn/direct/372f9160d1974ee69179ad08986586ff.png#pic_center)
+
+<div align=center>
+
+**微信扫码获取学习资源，开启你的学习之旅！**
+
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
+
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
+</div>
+
+### 第三阶段：应用开发中高级就业技术
+
+![](https://img-blog.csdnimg.cn/direct/852f46d88cda4857969ec66e25c097b7.png#pic_center)
+
+### 第四阶段：全网首发-工业级南向设备开发就业技术：
+
+![](https://img-blog.csdnimg.cn/direct/e79bd72095f548db8da2e59070fa28bb.png#pic_center)
 **因图片过大，暂且在这只能放上缩略版了，如需完整版知识路线图学习的可以加小助理V ：**
 
 <div align=center>
 
 **微信扫码获取学习资源，开启你的学习之旅！**
 
-![](https://github.com/733gh/xiongfan/assets/68420976/d5cf396b-3cd9-4871-bfba-533176b67281)
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
 
 **扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
 
@@ -48,9 +76,9 @@
 
 <div align=center>
 
-  **微信扫码获取学习资源，开启你的学习之旅！**
+**微信扫码获取学习资源，开启你的学习之旅！**
 
-![](https://github.com/733gh/xiongfan/assets/68420976/d5cf396b-3cd9-4871-bfba-533176b67281)
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
 
 **扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
 
@@ -80,11 +108,12 @@
 
 <div align=center>
 
-  **微信扫码获取学习资源，开启你的学习之旅！**
+**微信扫码获取学习资源，开启你的学习之旅！**
 
-![](https://github.com/733gh/xiongfan/assets/68420976/d5cf396b-3cd9-4871-bfba-533176b67281)
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
 
 **扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
 </div>
 
 ### 基于ArkTS 开发： 
@@ -114,9 +143,9 @@
 
 <div align=center>
 
-  **微信扫码获取学习资源，开启你的学习之旅!**
+**微信扫码获取学习资源，开启你的学习之旅！**
 
-![](https://github.com/733gh/xiongfan/assets/68420976/d5cf396b-3cd9-4871-bfba-533176b67281)
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
 
 **扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
 
